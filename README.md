@@ -28,7 +28,7 @@ Que puedas leer algo y decir: "no soy el único que piensa esto".
 
 🌐 Ver la web
 
-(poné acá tu link cuando la publiques)
+https://lkmi2013lu-star.github.io/lkmiBlogs.github.io/
 
 📬 Nota final
 
