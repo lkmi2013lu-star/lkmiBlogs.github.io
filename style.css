@@ -1,0 +1,121 @@
+        body {
+            background: linear-gradient(to bottom, rgb(0, 0, 0), rgb(37, 37, 37));
+            color: white;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+        a:not(.navito) {
+            color: rgb(25, 0, 255);
+            transition: 0.5s;
+        }
+
+        a:hover:not(.navito) {
+            color: yellow;
+            text-shadow: 0px 0px 10px white;
+        }
+
+        header {
+            width: 75%;
+            box-sizing: border-box;
+            border: 2px solid;
+            padding: 10px;
+            height: 105px;
+            margin: auto;
+            align-content: center;
+            box-shadow: 0px 5px 10px white;
+        }
+
+        footer {
+            background-color: rgb(19, 19, 19);
+            height: 95px;
+            margin: auto;
+        }
+
+        section {
+            margin: auto;
+        }
+
+        .foot {
+            margin-left: 10px;
+        }
+
+        .txtprin {
+            display: block;
+            text-align: center;
+        }
+
+        article {
+            border: 2px solid white;
+            display: block;
+            margin: 10px;
+        }
+
+        .txt {
+            margin-left: 10px;
+        }
+
+        .img {
+            margin-left: 10px;
+        }
+
+        .tit {
+            margin-left: 10px;
+        }
+
+
+        p {
+            font-size: 20px;
+        }
+
+
+        .atsg {
+            text-align: center;
+        }
+
+        .priv {
+            text-align: center;
+        }
+
+        .polit {
+            max-width: 1000px;
+            margin: auto;
+        }
+
+
+        .txt10 {
+            text-align: center;
+        }
+
+        .men {
+            font-size: 20px;
+            text-align: center;
+            margin: auto;
+            color: grey;
+        }
+
+
+        .img_center {
+            display: block;
+            margin: 0 auto;
+            
+        }
+
+        nav {
+            margin: 2%;
+            color: grey;
+        }
+
+        .navito {
+            color: grey;
+            transition: 0.3s;
+        }
+
+        .navito:hover {
+            color: rgb(0, 225, 255);
+            text-shadow: 0px 0px 10px white;
+        }
+
+        .cont {
+            max-width: 500px;
+            margin: auto;
+        }
